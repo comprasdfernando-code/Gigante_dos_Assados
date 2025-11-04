@@ -245,6 +245,81 @@ export default function GigantePage() {
 
           <SwiperSlide>
             <img
+              src="/promo4.jpeg"
+              alt="Promoção 4"
+              style={{
+                width: "100%",
+                borderRadius: 10,
+                boxShadow: "0 2px 10px rgba(0,0,0,0.2)",
+              }}
+            />
+            <p style={{ marginTop: 10, fontWeight: "bold" }}>
+              Frango Assado R$ 49,90
+            </p>
+          </SwiperSlide>
+
+          <SwiperSlide>
+            <img
+              src="/promo5.jpeg"
+              alt="Promoção 5"
+              style={{
+                width: "100%",
+                borderRadius: 10,
+                boxShadow: "0 2px 10px rgba(0,0,0,0.2)",
+              }}
+            />
+            <p style={{ marginTop: 10, fontWeight: "bold" }}>
+              Frango Assado R$ 49,90
+            </p>
+          </SwiperSlide>
+
+          <SwiperSlide>
+            <img
+              src="/promo6.jpeg"
+              alt="Promoção 6"
+              style={{
+                width: "100%",
+                borderRadius: 10,
+                boxShadow: "0 2px 10px rgba(0,0,0,0.2)",
+              }}
+            />
+            <p style={{ marginTop: 10, fontWeight: "bold" }}>
+              Frango Assado R$ 49,90
+            </p>
+          </SwiperSlide>
+
+          <SwiperSlide>
+            <img
+              src="/promo7.jpeg"
+              alt="Promoção 7"
+              style={{
+                width: "100%",
+                borderRadius: 10,
+                boxShadow: "0 2px 10px rgba(0,0,0,0.2)",
+              }}
+            />
+            <p style={{ marginTop: 10, fontWeight: "bold" }}>
+              Frango Assado R$ 49,90
+            </p>
+          </SwiperSlide>
+
+          <SwiperSlide>
+            <img
+              src="/promo8.jpeg"
+              alt="Promoção 8"
+              style={{
+                width: "100%",
+                borderRadius: 10,
+                boxShadow: "0 2px 10px rgba(0,0,0,0.2)",
+              }}
+            />
+            <p style={{ marginTop: 10, fontWeight: "bold" }}>
+              Frango Assado R$ 49,90
+            </p>
+          </SwiperSlide>
+
+          <SwiperSlide>
+            <img
               src="/promo3.jpeg"
               alt="Promoção 3"
               style={{
